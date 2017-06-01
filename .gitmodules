@@ -13,3 +13,6 @@
 [submodule "start/vim-airline"]
 	path = start/vim-airline
 	url = https://github.com/vim-airline/vim-airline.git
+[submodule "opt/vim-flake8"]
+	path = opt/vim-flake8
+	url = git@github.com:nvie/vim-flake8.git
