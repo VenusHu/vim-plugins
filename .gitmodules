@@ -1,0 +1,15 @@
+[submodule "start/YouCompleteMe"]
+	path = start/YouCompleteMe
+	url = git@github.com:Valloric/YouCompleteMe.git
+[submodule "start/vim-colors-solarized"]
+	path = start/vim-colors-solarized
+	url = git://github.com/altercation/vim-colors-solarized.git
+[submodule "opt/vim-go"]
+	path = opt/vim-go
+	url = https://github.com/fatih/vim-go.git
+[submodule "start/nerdtree"]
+	path = start/nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
+[submodule "start/vim-airline"]
+	path = start/vim-airline
+	url = https://github.com/vim-airline/vim-airline.git
