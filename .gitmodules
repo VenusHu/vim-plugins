@@ -16,6 +16,3 @@
 [submodule "start/vim-fugitive"]
 	path = start/vim-fugitive
 	url = https://github.com/tpope/vim-fugitive
-[submodule "start/vim-surround"]
-	path = start/vim-surround
-	url = https://github.com/tpope/vim-surround
