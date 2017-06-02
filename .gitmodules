@@ -13,6 +13,3 @@
 [submodule "opt/vim-flake8"]
 	path = opt/vim-flake8
 	url = git@github.com:nvie/vim-flake8.git
-[submodule "start/vim-go"]
-	path = start/vim-go
-	url = https://github.com/fatih/vim-go.git
