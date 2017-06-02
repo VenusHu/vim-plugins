@@ -22,3 +22,6 @@
 [submodule "start/delimitMate"]
 	path = start/delimitMate
 	url = git@github.com:Raimondi/delimitMate.git
+[submodule "start/ack.vim"]
+	path = start/ack.vim
+	url = https://github.com/mileszs/ack.vim.git
