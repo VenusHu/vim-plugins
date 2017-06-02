@@ -25,3 +25,6 @@
 [submodule "start/ack.vim"]
 	path = start/ack.vim
 	url = https://github.com/mileszs/ack.vim.git
+[submodule "start/syntastic"]
+	path = start/syntastic
+	url = https://github.com/scrooloose/syntastic
