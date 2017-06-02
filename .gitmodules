@@ -19,3 +19,6 @@
 [submodule "start/ctrlp"]
 	path = start/ctrlp
 	url = https://github.com/kien/ctrlp.vim
+[submodule "start/delimitMate"]
+	path = start/delimitMate
+	url = git@github.com:Raimondi/delimitMate.git
