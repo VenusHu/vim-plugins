@@ -34,3 +34,6 @@
 [submodule "start/ultisnips"]
 	path = start/ultisnips
 	url = git@github.com:SirVer/ultisnips.git
+[submodule "start/supertab"]
+	path = start/supertab
+	url = git@github.com:ervandew/supertab.git
