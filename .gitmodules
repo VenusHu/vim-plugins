@@ -31,3 +31,6 @@
 [submodule "start/nerdcommenter"]
 	path = start/nerdcommenter
 	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "start/ultisnips"]
+	path = start/ultisnips
+	url = git@github.com:SirVer/ultisnips.git
