@@ -43,3 +43,6 @@
 [submodule "start/vim-repeat"]
 	path = start/vim-repeat
 	url = git://github.com/tpope/vim-repeat.git
+[submodule "start/vim-autotag"]
+	path = start/vim-autotag
+	url = git://github.com/craigemery/vim-autotag.git
