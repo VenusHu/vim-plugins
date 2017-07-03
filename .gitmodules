@@ -43,3 +43,6 @@
 [submodule "start/vim-repeat"]
 	path = start/vim-repeat
 	url = git://github.com/tpope/vim-repeat.git
+[submodule "start/minibufexpl.vim"]
+	path = start/minibufexpl.vim
+	url = git@github.com:fholgado/minibufexpl.vim.git
