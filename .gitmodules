@@ -46,6 +46,3 @@
 [submodule "start/vim-autotag"]
 	path = start/vim-autotag
 	url = git://github.com/craigemery/vim-autotag.git
-[submodule "opt/rust.vim"]
-	path = opt/rust.vim
-	url = https://github.com/rust-lang/rust.vim.git
