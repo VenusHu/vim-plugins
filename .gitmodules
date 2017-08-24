@@ -52,3 +52,6 @@
 [submodule "start/vim-racer"]
 	path = start/vim-racer
 	url = https://github.com/racer-rust/vim-racer.git
+[submodule "start/taglist.vim"]
+	path = start/taglist.vim
+	url = git@github.com:vim-scripts/taglist.vim.git
