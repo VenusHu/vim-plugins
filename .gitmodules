@@ -55,3 +55,6 @@
 [submodule "start/taglist.vim"]
 	path = start/taglist.vim
 	url = git@github.com:vim-scripts/taglist.vim.git
+[submodule "start/dash.vim"]
+	path = start/dash.vim
+	url = https://github.com/rizzatti/dash.vim.git
